@@ -1,2 +1,14 @@
 this is the first content
 this is the new change
+
+https://www.youtube.com/watch?v=-YCi1EiZ_Lg
+git clone +link => download to PC
+cd => go to the folder
+
+
+git add .
+git commit -am "message"
+=> day code len
+git push
+
+git pull => lay code moi tu GitHub do ve PC
